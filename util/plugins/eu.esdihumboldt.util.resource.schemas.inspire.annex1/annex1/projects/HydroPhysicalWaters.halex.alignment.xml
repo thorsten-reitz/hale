@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<alignment xmlns="http://www.esdi-humboldt.eu/hale/alignment"/>
+<alignment xmlns="http://www.esdi-humboldt.eu/hale/alignment">
+    <cell relation="eu.esdihumboldt.hale.align.generateuid" id="Cf1c9e450-c934-4cc1-9985-9bd6adb797be" priority="normal">
+        <target>
+            <property>
+                <type name="DamOrWeirType" ns="urn:x-inspire:specification:gmlas:HydroPhysicalWaters:3.0"/>
+                <child name="id" ns="http://www.opengis.net/gml/3.2"/>
+            </property>
+        </target>
+    </cell>
+</alignment>
